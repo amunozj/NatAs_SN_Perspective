@@ -4,21 +4,28 @@
 
 Data included in the _'input_data'_ folder are reduced versions of the published originals.  We request that you use them only to reproduce our figures, but not for your own research purposes.  Instead please go to the original sources:
 
-*Sunspot Number Data*
+**Sunspot Number Data**
 
 * [SILSO World Data Center](http://www.sidc.be/silso/)
-* Lockwood, M., Owens, M. J. & Barnard, L. Centennial variations in sunspot number, open solar flux, and streamer
-belt width: 2. Comparison with the geomagnetic data. J. Geophys. Res. (Space Physics) 119, 5183–5192 (2014). DOI
-10.1002/2014JA019972.
-* Cliver, E. W. & Ling, A. G. The Discontinuity Circa 1885 in the Group Sunspot Number. Sol. Phys. 291, 2763–2784
-(2016). DOI 10.1007/s11207-015-0841-6.
-* Svalgaard, L. & Schatten, K. H. Reconstruction of the Sunspot Group Number: The Backbone Method. Sol. Phys. 291,
-2653–2684 (2016). DOI 10.1007/s11207-015-0815-8.
 * Chatzistergos, T., Usoskin, I. G., Kovaltsov, G. A., Krivova, N. A. & Solanki, S. K. New reconstruction of the sunspot
 group numbers since 1739 using direct calibration and ”backbone” methods. Astron. & Astrophys. 602, A69 (2017). DOI
 10.1051/0004-6361/201630045.
+* Cliver, E. W. & Ling, A. G. The Discontinuity Circa 1885 in the Group Sunspot Number. Sol. Phys. 291, 2763–2784
+(2016). DOI 10.1007/s11207-015-0841-6.
+* Ivanov, V. G. & Miletsky, E. V. Latitude and Power Characteristics of Solar Activity at the End of the Maunder Minimum.
+Geomagn. Aeron. 57, 788–791 (2017). DOI 10.1134/S0016793217070106.
+* Lockwood, M., Owens, M. J. & Barnard, L. Centennial variations in sunspot number, open solar flux, and streamer
+belt width: 2. Comparison with the geomagnetic data. J. Geophys. Res. (Space Physics) 119, 5183–5192 (2014). DOI
+10.1002/2014JA019972.
+* Svalgaard, L. & Schatten, K. H. Reconstruction of the Sunspot Group Number: The Backbone Method. Sol. Phys. 291,
+2653–2684 (2016). DOI 10.1007/s11207-015-0815-8.
+* Vaquero, J. M., Kovaltsov, G. A., Usoskin, I. G., Carrasco, V. M. S. & Gallego, M. C. Level and length of cyclic solar
+activity during the Maunder minimum as deduced from the active-day statistics. Astron. & Astrophys. 577, A71 (2015).
+DOI 10.1051/0004-6361/201525962.
 * Willamo, T., Usoskin, I. G. & Kovaltsov, G. A. Updated sunspot group number reconstruction for 1749-1996 using the
 active day fraction method. Astron. & Astrophys. 601, A109 (2017). DOI 10.1051/0004-6361/201629839.
+* Zolotova, N. V. & Ponyavin, D. I. The Maunder Minimum is Not as Grand as it Seemed to be. The Astrophys. J. 800, 42
+(2015). DOI 10.1088/0004-637X/800/1/42.
 
 ## Setting Up Your Modeling Environment ##
 
