@@ -1,6 +1,6 @@
 # Repository of NatAs perspective:  "The Long-Term Sunspot Number Series: Challenges and Limitations"
 
-## Important Limitations on using provided data
+## _Please Read_: Important Limitations on Using Provided Data
 
 Data included in the _'input_data'_ folder are reduced versions of the published originals.  We request that you use them only to reproduce our figures, but not for your own research purposes.  Instead please go to the original sources:
 
